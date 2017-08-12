@@ -1,7 +1,7 @@
 {
-    "name": "cysha/theme-default",
+    "name": "cysha/theme-coreui",
     "type": "pxcms-themes",
-    "description": "Default Theme for Phoenix CMS",
+    "description": "theme-coreui Theme for Phoenix CMS",
     "license": "MIT",
     "authors": [
         { "name": "xLink (Dan Aldridge)", "email": "xLink@cybershade.org" }
